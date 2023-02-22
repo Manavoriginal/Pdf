@@ -13,15 +13,15 @@
 	"stack": "container",
 	"env": {
 		"API_ID": {
-			"description": "API_ID from my.telegram.org",
+			"description": "23977500",
 			"required": true
 		},
 		"API_HASH": {
-			"description": "API_ID from my.telegram.org",
+			"description": "a4bfcc57b242dc49952c02c593b47edb",
 			"required": true
 		},
 		"API_TOKEN": {
-			"description": "API_TOKEN from @botfather",
+			"description": "6003551430:AAG6Tfin9sOj_d2kXrmxCZt1kDXXRW-ffWY",
 			"required": true
 		},
 		"MONGODB_URI": {
@@ -29,7 +29,7 @@
 			"required":true
 		},
 		"UPDATE_CHANNEL": {
-			"description": "ChannelId if you need force Subscription",
+			"description": "@Pdf69bot",
 			"required": false
 		},
 		"ADMINS": {
